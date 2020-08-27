@@ -19,8 +19,8 @@ For my first Build Week Assignment at the Lambda School, I quantified and examin
 Some of the main takeaways include:
 
 *   Running backs are rushing for fewer yards
-*   Running backs are getting fewer carries per game
-*   Running back-generated rush yards make up a smaller percentage of a team's total yards
+*   Running backs are rushing less often
+*   Running back-generated rush yards as a percentage of a team's total yards is decreasing
 *   The 'TD Gap' (Rush TDs to Pass TDs) is widening
 *   Quarterbacks are rushing for more yards
 *   Running backs are less frequently picked in the first round of the NFL Draft
