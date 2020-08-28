@@ -8,11 +8,11 @@ share-img: /assets/img/football basic .jpeg
 tags: [NFL, sports]
 ---
 
-The 2020 NFL Season is approaching. With the COVID-19 pandemic continuing to disrupt sports worldwide, it remains to be seen what the season will look like. 
+The 2020 NFL Season is approaching. With the COVID-19 pandemic continuing to disrupt sports worldwide, it remains to be seen what the season will look like, if it happens at all. 
 
 Yes, there is a lot to dislike about The League. Some players are blacklisted for non-violent protests while others are welcomed back to their teams after despicable crimes. Player health and safety issues are underreported. And ever-changing rules slow down the game and make consistent officiating nearly impossible. 
 
-Still, if there is no 2020 NFL season, I will miss it. High school football was formative in my life. I played running back for a small school in Washington state, and I studied the professionals closely. But as years go by and the NFL evolves, I have noticed that the running back position does not feature as prominently as it once did. 
+Still, if there is no 2020 NFL season, I will miss it. High school football was formative in my life. I played running back for a small school in Washington state and I studied my professional counterparts closely. But as years go by and the NFL evolves, I can't help but notice that the running back position does not feature as prominently as it once did. 
 
 For my first Build Week Assignment at the Lambda School, I quantified and examined some of my assumptions. I looked at NFL data from 1979 through last season (2019). Those findings are explained in detail [here](https://https://medium.com/@henrymead/death-of-the-running-back-ae0a2d410a34).
 
