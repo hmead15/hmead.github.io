@@ -14,7 +14,7 @@ Yes, there is a lot to dislike about The League. Some players are blacklisted fo
 
 Still, if there is no 2020 NFL season, I will miss it. High school football was formative in my life. I played running back for a small school in Washington state and I studied my professional counterparts closely. But as years go by and the NFL evolves, I can't help but notice that the running back position does not feature as prominently as it once did. 
 
-For my first Build Week Assignment at the Lambda School, I quantified and examined some of my assumptions. I looked at NFL data from 1979 through last season (2019). Those findings are explained in detail [here](https://https://medium.com/@henrymead/death-of-the-running-back-ae0a2d410a34).
+For my first Build Week Assignment at the Lambda School, I quantified and examined some of my assumptions. I looked at NFL data from 1979 through last season (2019). Those findings are explained in detail [here](https://medium.com/@henrymead/death-of-the-running-back-ae0a2d410a34).
 
 Some of the main takeaways include:
 
