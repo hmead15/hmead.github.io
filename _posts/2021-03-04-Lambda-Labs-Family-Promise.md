@@ -1,3 +1,4 @@
+---
 layout: post
 title: Alleviating Homelessness with Data Science
 subtitle: Model Building and Working on a Team
@@ -5,6 +6,7 @@ cover-img: /assets/img/fam_promise_banner.jpg
 thumbnail-img: /assets/img/family-promise-of-spokane.jpg
 share-img: /assets/img/family-promise-of-spokane.jpg
 tags: [housing, classification]
+---
 
 The Family Promise of Spokane Organization is a US-based nonprofit organization based in Spokane, WA. They are an organization that helps homeless families as well as preventing families from becoming homeless. They provide shelter for families as well as rental assistance. My labs team developed a digital intake form for families and Family Promise Shelter employees. Currently, the institution is mainly paper-based, and digitization will result in increased efficiencies and valuable insights. ‘
 
